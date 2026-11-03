@@ -1,0 +1,12 @@
+{
+  "video": "videos\\mona-lisa.avi",
+  "frames": 558,
+  "detected": 558,
+  "detection_percent": 100.0,
+  "seconds": 19.98,
+  "processing_fps": 27.92,
+  "width": 640,
+  "height": 360,
+  "source_fps": 29.97,
+  "template_keypoints": 2065
+}

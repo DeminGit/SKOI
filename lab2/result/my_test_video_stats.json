@@ -1,0 +1,12 @@
+{
+  "video": "videos\\my_test_video.mp4",
+  "frames": 405,
+  "detected": 405,
+  "detection_percent": 100.0,
+  "seconds": 37.51,
+  "processing_fps": 10.8,
+  "width": 720,
+  "height": 1280,
+  "source_fps": 29.90200019360417,
+  "template_keypoints": 3458
+}
